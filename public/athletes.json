@@ -1,0 +1,882 @@
+[
+  {
+    "id": 1,
+    "name": "Lionel Messi",
+    "club": {
+      "name": "Inter Miami CF",
+      "img": "https://cdn.example.com/clubs/intermiami.png"
+    },
+    "country": {
+      "name": "Argentina",
+      "img": "https://cdn.example.com/countries/argentina.png"
+    },
+    "position": {
+      "club": "AM/CF",
+      "country": "SS"
+    },
+    "jersey_number": {
+      "club": 10,
+      "country": 10
+    },
+    "market_value": 25,
+    "player_image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Lionel_Messi_White_House_2026_%283x4_cropped%29.jpg",
+    "achievements": {
+      "club": {
+        "goals": 740,
+        "assists": 320,
+        "trophies": ["UCL x4", "La Liga x10", "MLS Cup x1", "Leagues Cup x1"]
+      },
+      "country": {
+        "goals": 110,
+        "assists": 55,
+        "trophies": ["World Cup 2022", "Copa America x2", "Finalissima"]
+      }
+    },
+    "hobby": "Family time, Padel, Mate tea"
+  },
+  {
+    "id": 2,
+    "name": "Cristiano Ronaldo",
+    "club": {
+      "name": "Al-Nassr FC",
+      "img": "https://cdn.example.com/clubs/alnassr.png"
+    },
+    "country": {
+      "name": "Portugal",
+      "img": "https://cdn.example.com/countries/portugal.png"
+    },
+    "position": {
+      "club": "ST",
+      "country": "ST"
+    },
+    "jersey_number": {
+      "club": 7,
+      "country": 7
+    },
+    "market_value": 15,
+    "player_image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/President_Donald_Trump_meets_with_Cristiano_Ronaldo_in_the_Oval_Office_%2854933344262%29_%28cropped_and_rotated%29.jpg",
+    "achievements": {
+      "club": {
+        "goals": 770,
+        "assists": 210,
+        "trophies": [
+          "UCL x5",
+          "Premier League x3",
+          "La Liga x2",
+          "Saudi Pro League x1"
+        ]
+      },
+      "country": {
+        "goals": 135,
+        "assists": 35,
+        "trophies": ["Euro 2016", "Nations League 2019"]
+      }
+    },
+    "hobby": "Fitness, Recovery tech, Luxury Watches"
+  },
+  {
+    "id": 3,
+    "name": "Luka Modrić",
+    "club": {
+      "name": "Real Madrid",
+      "img": "https://cdn.example.com/clubs/realmadrid.png"
+    },
+    "country": {
+      "name": "Croatia",
+      "img": "https://cdn.example.com/countries/croatia.png"
+    },
+    "position": {
+      "club": "CM",
+      "country": "CM"
+    },
+    "jersey_number": {
+      "club": 10,
+      "country": 10
+    },
+    "market_value": 5,
+    "player_image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ofrenda_de_la_Liga_y_la_Champions-57-L.Mill%C3%A1n_%2852109310843%29_%28Luka_Modri%C4%87%29.jpg",
+    "achievements": {
+      "club": {
+        "goals": 55,
+        "assists": 130,
+        "trophies": ["UCL x6", "La Liga x4", "Copa del Rey x2"]
+      },
+      "country": {
+        "goals": 25,
+        "assists": 28,
+        "trophies": ["World Cup Runner-up 2018"]
+      }
+    },
+    "hobby": "Family, Tennis"
+  },
+  {
+    "id": 4,
+    "name": "Karim Benzema",
+    "club": {
+      "name": "Al-Hilal",
+      "img": "https://cdn.example.com/clubs/alhilal.png"
+    },
+    "country": {
+      "name": "France (Retired)",
+      "img": "https://cdn.example.com/countries/france.png"
+    },
+    "position": {
+      "club": "ST",
+      "country": "ST"
+    },
+    "jersey_number": {
+      "club": 9,
+      "country": 19
+    },
+    "market_value": 3,
+    "player_image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Karim_Benzema_Pick.jpg",
+    "achievements": {
+      "club": {
+        "goals": 440,
+        "assists": 195,
+        "trophies": ["UCL x5", "La Liga x4", "Ballon d'Or 2022"]
+      },
+      "country": {
+        "goals": 37,
+        "assists": 20,
+        "trophies": ["Nations League 2021"]
+      }
+    },
+    "hobby": "Boxing, Luxury Cars"
+  },
+  {
+    "id": 5,
+    "name": "Robert Lewandowski",
+    "club": {
+      "name": "FC Barcelona",
+      "img": "https://cdn.example.com/clubs/barcelona.png"
+    },
+    "country": {
+      "name": "Poland",
+      "img": "https://cdn.example.com/countries/poland.png"
+    },
+    "position": {
+      "club": "ST",
+      "country": "ST"
+    },
+    "jersey_number": {
+      "club": 9,
+      "country": 9
+    },
+    "market_value": 12,
+    "player_image": "https://upload.wikimedia.org/wikipedia/commons/2/26/2019147183134_2019-05-27_Fussball_1.FC_Kaiserslautern_vs_FC_Bayern_M%C3%BCnchen_-_Sven_-_1D_X_MK_II_-_0228_-_B70I8527_%28cropped%29.jpg",
+    "achievements": {
+      "club": {
+        "goals": 570,
+        "assists": 150,
+        "trophies": ["UCL x1", "Bundesliga x10", "La Liga x1"]
+      },
+      "country": {
+        "goals": 82,
+        "assists": 18,
+        "trophies": []
+      }
+    },
+    "hobby": "Fitness, Healthy lifestyle, TikTok"
+  },
+  {
+    "id": 6,
+    "name": "Neymar Jr",
+    "club": {
+      "name": "Al-Hilal",
+      "img": "https://cdn.example.com/clubs/alhilal.png"
+    },
+    "country": {
+      "name": "Brazil",
+      "img": "https://cdn.example.com/countries/brazil.png"
+    },
+    "position": {
+      "club": "LW/AM",
+      "country": "AM"
+    },
+    "jersey_number": {
+      "club": 10,
+      "country": 10
+    },
+    "market_value": 35,
+    "player_image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Neymar_Jr._with_Al_Hilal%2C_3_October_2023_-_03_%28cropped%29.jpg",
+    "achievements": {
+      "club": {
+        "goals": 300,
+        "assists": 190,
+        "trophies": ["UCL x1", "La Liga x2", "Ligue 1 x5"]
+      },
+      "country": {
+        "goals": 79,
+        "assists": 58,
+        "trophies": ["Confederations Cup 2013", "Olympic Gold 2016"]
+      }
+    },
+    "hobby": "Poker, Gaming (CS:GO), Parties"
+  },
+  {
+    "id": 7,
+    "name": "Luis Suárez",
+    "club": {
+      "name": "Inter Miami CF",
+      "img": "https://cdn.example.com/clubs/intermiami.png"
+    },
+    "country": {
+      "name": "Uruguay",
+      "img": "https://cdn.example.com/countries/uruguay.png"
+    },
+    "position": {
+      "club": "ST",
+      "country": "ST"
+    },
+    "jersey_number": {
+      "club": 9,
+      "country": 9
+    },
+    "market_value": 1,
+    "player_image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Luis_Su%C3%A1rez_2026_%28cropped%29.jpg",
+    "achievements": {
+      "club": {
+        "goals": 490,
+        "assists": 250,
+        "trophies": ["UCL x1", "La Liga x5", "Eredivisie x1"]
+      },
+      "country": {
+        "goals": 68,
+        "assists": 35,
+        "trophies": ["Copa America 2011"]
+      }
+    },
+    "hobby": "Mate, Playing with kids"
+  },
+  {
+    "id": 8,
+    "name": "Angel Di Maria",
+    "club": {
+      "name": "Rosario Central",
+      "img": "https://cdn.example.com/clubs/rosario.png"
+    },
+    "country": {
+      "name": "Argentina (Retired)",
+      "img": "https://cdn.example.com/countries/argentina.png"
+    },
+    "position": {
+      "club": "RW/AM",
+      "country": "RW"
+    },
+    "jersey_number": {
+      "club": 11,
+      "country": 11
+    },
+    "market_value": 3,
+    "player_image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/NIG-ARG_%285%29.jpg",
+    "achievements": {
+      "club": {
+        "goals": 170,
+        "assists": 260,
+        "trophies": ["UCL x1", "Ligue 1 x5", "La Liga x1"]
+      },
+      "country": {
+        "goals": 31,
+        "assists": 32,
+        "trophies": ["World Cup 2022", "Copa America x2"]
+      }
+    },
+    "hobby": "Family, Video Games"
+  },
+  {
+    "id": 9,
+    "name": "Manuel Neuer",
+    "club": {
+      "name": "Bayern Munich",
+      "img": "https://cdn.example.com/clubs/bayern.png"
+    },
+    "country": {
+      "name": "Germany (Retired)",
+      "img": "https://cdn.example.com/countries/germany.png"
+    },
+    "position": {
+      "club": "GK",
+      "country": "GK"
+    },
+    "jersey_number": {
+      "club": 1,
+      "country": 1
+    },
+    "market_value": 4,
+    "player_image": "https://upload.wikimedia.org/wikipedia/commons/1/10/20180602_FIFA_Friendly_Match_Austria_vs._Germany_Manuel_Neuer_850_0723.jpg",
+    "achievements": {
+      "club": {
+        "goals": 0,
+        "assists": 5,
+        "trophies": ["UCL x2", "Bundesliga x11"]
+      },
+      "country": {
+        "goals": 0,
+        "assists": 0,
+        "trophies": ["World Cup 2014"]
+      }
+    },
+    "hobby": "Tennis, Skiing"
+  },
+  {
+    "id": 10,
+    "name": "Thomas Müller",
+    "club": {
+      "name": "Bayern Munich",
+      "img": "https://cdn.example.com/clubs/bayern.png"
+    },
+    "country": {
+      "name": "Germany (Retired)",
+      "img": "https://cdn.example.com/countries/germany.png"
+    },
+    "position": {
+      "club": "SS/AM",
+      "country": "SS"
+    },
+    "jersey_number": {
+      "club": 25,
+      "country": 13
+    },
+    "market_value": 6,
+    "player_image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/FC_Red_Bull_Salzburg_gegen_Bayern_M%C3%BCnchen_%282025-01-06_Testspiel%29_19.jpg",
+    "achievements": {
+      "club": {
+        "goals": 240,
+        "assists": 270,
+        "trophies": ["UCL x2", "Bundesliga x12"]
+      },
+      "country": {
+        "goals": 45,
+        "assists": 40,
+        "trophies": ["World Cup 2014"]
+      }
+    },
+    "hobby": "Horse Breeding (Lisbon), Golf"
+  },
+  {
+    "id": 11,
+    "name": "Marco Reus",
+    "club": {
+      "name": "LA Galaxy",
+      "img": "https://cdn.example.com/clubs/lagalaxy.png"
+    },
+    "country": {
+      "name": "Germany (Retired)",
+      "img": "https://cdn.example.com/countries/germany.png"
+    },
+    "position": {
+      "club": "AM/LW",
+      "country": "AM/LW"
+    },
+    "jersey_number": {
+      "club": 18,
+      "country": 11
+    },
+    "market_value": 4,
+    "player_image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/2023-08-12_TSV_Schott_Mainz_gegen_Borussia_Dortmund_%28DFB-Pokal_2023-24%29_by_Sandro_Halank%E2%80%93126.jpg",
+    "achievements": {
+      "club": {
+        "goals": 180,
+        "assists": 140,
+        "trophies": ["DFB Pokal x2"]
+      },
+      "country": {
+        "goals": 15,
+        "assists": 14,
+        "trophies": []
+      }
+    },
+    "hobby": "Cars, Music"
+  },
+  {
+    "id": 12,
+    "name": "Sergio Ramos",
+    "club": {
+      "name": "Free Agent",
+      "img": "https://cdn.example.com/clubs/none.png"
+    },
+    "country": {
+      "name": "Spain (Retired)",
+      "img": "https://cdn.example.com/countries/spain.png"
+    },
+    "position": {
+      "club": "CB",
+      "country": "CB"
+    },
+    "jersey_number": {
+      "club": 4,
+      "country": 15
+    },
+    "market_value": 2,
+    "player_image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Sergio_Ramos_Interview_2021_%28cropped%29.jpg",
+    "achievements": {
+      "club": {
+        "goals": 135,
+        "assists": 40,
+        "trophies": ["UCL x4", "La Liga x5", "Ligue 1 x2"]
+      },
+      "country": {
+        "goals": 23,
+        "assists": 8,
+        "trophies": ["World Cup 2010", "Euro 2008, 2012"]
+      }
+    },
+    "hobby": "Horse Breeding, Art Collecting, Fitness"
+  },
+  {
+    "id": 13,
+    "name": "Keylor Navas",
+    "club": {
+      "name": "UNAM Pumas",
+      "img": "https://cdn.example.com/clubs/pumas.png"
+    },
+    "country": {
+      "name": "Costa Rica (Retired)",
+      "img": "https://cdn.example.com/countries/costarica.png"
+    },
+    "position": {
+      "club": "GK",
+      "country": "GK"
+    },
+    "jersey_number": {
+      "club": 1,
+      "country": 1
+    },
+    "market_value": 0,
+    "player_image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Keylor_Navas_2018_%28cropped%29.jpg",
+    "achievements": {
+      "club": {
+        "goals": 0,
+        "assists": 0,
+        "trophies": ["UCL x3", "Ligue 1 x3", "La Liga x1"]
+      },
+      "country": {
+        "goals": 0,
+        "assists": 0,
+        "trophies": []
+      }
+    },
+    "hobby": "Faith/Religion, Cinema"
+  },
+  {
+    "id": 14,
+    "name": "James Rodríguez",
+    "club": {
+      "name": "Minnesota United",
+      "img": "https://cdn.example.com/clubs/minnesota.png"
+    },
+    "country": {
+      "name": "Colombia",
+      "img": "https://cdn.example.com/countries/colombia.png"
+    },
+    "position": {
+      "club": "AM",
+      "country": "AM"
+    },
+    "jersey_number": {
+      "club": 10,
+      "country": 10
+    },
+    "market_value": 4,
+    "player_image": "https://upload.wikimedia.org/wikipedia/commons/7/79/James_Rodriguez_2018.jpg",
+    "achievements": {
+      "club": {
+        "goals": 125,
+        "assists": 160,
+        "trophies": ["UCL x2", "La Liga x2", "Bundesliga x2"]
+      },
+      "country": {
+        "goals": 30,
+        "assists": 35,
+        "trophies": ["Golden Boot WC 2014"]
+      }
+    },
+    "hobby": "Gaming, Travel"
+  },
+  {
+    "id": 15,
+    "name": "Alexis Sánchez",
+    "club": {
+      "name": "Sevilla FC",
+      "img": "https://cdn.example.com/clubs/sevilla.png"
+    },
+    "country": {
+      "name": "Chile",
+      "img": "https://cdn.example.com/countries/chile.png"
+    },
+    "position": {
+      "club": "SS",
+      "country": "ST"
+    },
+    "jersey_number": {
+      "club": 10,
+      "country": 7
+    },
+    "market_value": 1,
+    "player_image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Alexis_S%C3%A1nchez_2017.jpg",
+    "achievements": {
+      "club": {
+        "goals": 210,
+        "assists": 150,
+        "trophies": ["Serie A x2", "La Liga x1", "FA Cup x2"]
+      },
+      "country": {
+        "goals": 52,
+        "assists": 41,
+        "trophies": ["Copa America x2"]
+      }
+    },
+    "hobby": "Dogs, Nature walks"
+  },
+  {
+    "id": 16,
+    "name": "Edinson Cavani",
+    "club": {
+      "name": "Boca Juniors",
+      "img": "https://cdn.example.com/clubs/boca.png"
+    },
+    "country": {
+      "name": "Uruguay (Retired)",
+      "img": "https://cdn.example.com/countries/uruguay.png"
+    },
+    "position": {
+      "club": "ST",
+      "country": "ST"
+    },
+    "jersey_number": {
+      "club": 10,
+      "country": 21
+    },
+    "market_value": 0,
+    "player_image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Edinson_Cavani_2018_%28cropped%29.jpg",
+    "achievements": {
+      "club": {
+        "goals": 385,
+        "assists": 75,
+        "trophies": ["Ligue 1 x6", "Coppa Italia x1"]
+      },
+      "country": {
+        "goals": 58,
+        "assists": 18,
+        "trophies": ["Copa America 2011"]
+      }
+    },
+    "hobby": "Farming, Fishing, Nature"
+  },
+  {
+    "id": 17,
+    "name": "Thiago Silva",
+    "club": {
+      "name": "Fluminense",
+      "img": "https://cdn.example.com/clubs/fluminense.png"
+    },
+    "country": {
+      "name": "Brazil (Retired)",
+      "img": "https://cdn.example.com/countries/brazil.png"
+    },
+    "position": {
+      "club": "CB",
+      "country": "CB"
+    },
+    "jersey_number": {
+      "club": 3,
+      "country": 3
+    },
+    "market_value": 1,
+    "player_image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Thiago_Silva_850_1582.jpg",
+    "achievements": {
+      "club": {
+        "goals": 40,
+        "assists": 15,
+        "trophies": ["UCL x1", "Serie A x1", "Ligue 1 x7"]
+      },
+      "country": {
+        "goals": 7,
+        "assists": 5,
+        "trophies": ["Copa America 2019", "Confederations Cup 2013"]
+      }
+    },
+    "hobby": "Video Games, Family"
+  },
+  {
+    "id": 18,
+    "name": "Marcelo",
+    "club": {
+      "name": "Fluminense",
+      "img": "https://cdn.example.com/clubs/fluminense.png"
+    },
+    "country": {
+      "name": "Brazil (Retired)",
+      "img": "https://cdn.example.com/countries/brazil.png"
+    },
+    "position": {
+      "club": "LB",
+      "country": "LB"
+    },
+    "jersey_number": {
+      "club": 12,
+      "country": 12
+    },
+    "market_value": 1,
+    "player_image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Marcelo_Vieira_in_2022.jpg",
+    "achievements": {
+      "club": {
+        "goals": 50,
+        "assists": 120,
+        "trophies": ["UCL x5", "La Liga x6", "Libertadores x1"]
+      },
+      "country": {
+        "goals": 6,
+        "assists": 15,
+        "trophies": ["Confederations Cup 2013"]
+      }
+    },
+    "hobby": "Boxing, Social Media, Family"
+  },
+  {
+    "id": 19,
+    "name": "Radamel Falcao",
+    "club": {
+      "name": "Millonarios",
+      "img": "https://cdn.example.com/clubs/millonarios.png"
+    },
+    "country": {
+      "name": "Colombia",
+      "img": "https://cdn.example.com/countries/colombia.png"
+    },
+    "position": {
+      "club": "ST",
+      "country": "ST"
+    },
+    "jersey_number": {
+      "club": 9,
+      "country": 9
+    },
+    "market_value": 0,
+    "player_image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Radamel_Falcao_Garc%C3%ADa_%28cropped%29.jpg",
+    "achievements": {
+      "club": {
+        "goals": 315,
+        "assists": 55,
+        "trophies": ["Europa League x2", "Ligue 1 x1", "Primeira Liga x2"]
+      },
+      "country": {
+        "goals": 36,
+        "assists": 10,
+        "trophies": []
+      }
+    },
+    "hobby": "Reading, Family"
+  },
+  {
+    "id": 20,
+    "name": "Arturo Vidal",
+    "club": {
+      "name": "Colo-Colo",
+      "img": "https://cdn.example.com/clubs/colocolo.png"
+    },
+    "country": {
+      "name": "Chile",
+      "img": "https://cdn.example.com/countries/chile.png"
+    },
+    "position": {
+      "club": "CM",
+      "country": "CM"
+    },
+    "jersey_number": {
+      "club": 23,
+      "country": 8
+    },
+    "market_value": 0,
+    "player_image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Arturo_Vidal_Copiap%C3%B3_v_Colo-Colo_20241110_13.jpg",
+    "achievements": {
+      "club": {
+        "goals": 115,
+        "assists": 85,
+        "trophies": ["Serie A x4", "Bundesliga x3", "La Liga x1"]
+      },
+      "country": {
+        "goals": 34,
+        "assists": 10,
+        "trophies": ["Copa America x2"]
+      }
+    },
+    "hobby": "Horses, Streaming"
+  },
+  {
+    "id": 21,
+    "name": "David de Gea",
+    "club": {
+      "name": "ACF Fiorentina",
+      "img": "https://cdn.example.com/clubs/fiorentina.png"
+    },
+    "country": {
+      "name": "Spain (Retired)",
+      "img": "https://cdn.example.com/countries/spain.png"
+    },
+    "position": {
+      "club": "GK",
+      "country": "GK"
+    },
+    "jersey_number": {
+      "club": 43,
+      "country": 1
+    },
+    "market_value": 5,
+    "player_image": "https://upload.wikimedia.org/wikipedia/commons/6/68/David_de_Gea_2017.jpg",
+    "achievements": {
+      "club": {
+        "goals": 0,
+        "assists": 0,
+        "trophies": ["Premier League x1", "Europa League x2", "FA Cup x1"]
+      },
+      "country": {
+        "goals": 0,
+        "assists": 0,
+        "trophies": []
+      }
+    },
+    "hobby": "Heavy Metal music, Gaming"
+  },
+  {
+    "id": 22,
+    "name": "Casemiro",
+    "club": {
+      "name": "Manchester United",
+      "img": "https://cdn.example.com/clubs/manutd.png"
+    },
+    "country": {
+      "name": "Brazil",
+      "img": "https://cdn.example.com/countries/brazil.png"
+    },
+    "position": {
+      "club": "CDM",
+      "country": "CDM"
+    },
+    "jersey_number": {
+      "club": 18,
+      "country": 5
+    },
+    "market_value": 18,
+    "player_image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Casemiro_Brazil_Austria_June_2018.jpg",
+    "achievements": {
+      "club": {
+        "goals": 55,
+        "assists": 40,
+        "trophies": ["UCL x5", "La Liga x3"]
+      },
+      "country": {
+        "goals": 7,
+        "assists": 5,
+        "trophies": ["Copa America 2019"]
+      }
+    },
+    "hobby": "Gaming (Esports owner), Basketball"
+  },
+  {
+    "id": 23,
+    "name": "N'Golo Kanté",
+    "club": {
+      "name": "Al-Ittihad",
+      "img": "https://cdn.example.com/clubs/alittihad.png"
+    },
+    "country": {
+      "name": "France",
+      "img": "https://cdn.example.com/countries/france.png"
+    },
+    "position": {
+      "club": "CDM/CM",
+      "country": "CDM"
+    },
+    "jersey_number": {
+      "club": 7,
+      "country": 13
+    },
+    "market_value": 10,
+    "player_image": "https://upload.wikimedia.org/wikipedia/commons/0/05/N%27Golo_Kant%C3%A9_%28cropped%29.jpg",
+    "achievements": {
+      "club": {
+        "goals": 25,
+        "assists": 35,
+        "trophies": ["UCL x1", "Premier League x2", "UEL x1"]
+      },
+      "country": {
+        "goals": 2,
+        "assists": 1,
+        "trophies": ["World Cup 2018", "Nations League 2021"]
+      }
+    },
+    "hobby": "Chess, Tennis"
+  },
+  {
+    "id": 24,
+    "name": "Antoine Griezmann",
+    "club": {
+      "name": "Orlando City SC (July 2026)",
+      "img": "https://cdn.example.com/clubs/orlandocity.png"
+    },
+    "country": {
+      "name": "France (Retired)",
+      "img": "https://cdn.example.com/countries/france.png"
+    },
+    "position": {
+      "club": "SS/AM",
+      "country": "SS/AM"
+    },
+    "jersey_number": {
+      "club": 7,
+      "country": 7
+    },
+    "market_value": 12,
+    "player_image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/FRA-ARG_%2810%29_%28cropped%29.jpg",
+    "achievements": {
+      "club": {
+        "goals": 210,
+        "assists": 110,
+        "trophies": ["UEL x1", "Supercopa x1"]
+      },
+      "country": {
+        "goals": 44,
+        "assists": 38,
+        "trophies": ["World Cup 2018", "Nations League 2021"]
+      }
+    },
+    "hobby": "Horse Racing, NBA, Football Manager"
+  },
+  {
+    "id": 25,
+    "name": "Sadio Mané",
+    "club": {
+      "name": "Al-Nassr",
+      "img": "https://cdn.example.com/clubs/alnassr.png"
+    },
+    "country": {
+      "name": "Senegal",
+      "img": "https://cdn.example.com/countries/senegal.png"
+    },
+    "position": {
+      "club": "LW/ST",
+      "country": "LW/ST"
+    },
+    "jersey_number": {
+      "club": 10,
+      "country": 10
+    },
+    "market_value": 15,
+    "player_image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Esteghlal_F.C._v_Al_Nassr_FC%2C_3_March_2025%2C_Sadio_Man%C3%A9.jpg",
+    "achievements": {
+      "club": {
+        "goals": 220,
+        "assists": 100,
+        "trophies": ["UCL x1", "Premier League x1", "Bundesliga x1"]
+      },
+      "country": {
+        "goals": 45,
+        "assists": 25,
+        "trophies": ["AFCON 2021"]
+      }
+    },
+    "hobby": "Charity in Senegal, Football, Community work"
+  }
+]
