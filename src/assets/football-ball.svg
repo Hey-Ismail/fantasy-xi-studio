@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" role="img" aria-label="Football ball">
+  <circle cx="90" cy="90" r="80" fill="#f8fafc" stroke="#111827" stroke-width="6" />
+  <polygon points="90,48 112,62 104,86 76,86 68,62" fill="#111827" />
+  <polygon points="58,92 76,86 84,112 68,126 48,114" fill="#111827" />
+  <polygon points="122,92 104,86 96,112 112,126 132,114" fill="#111827" />
+  <polygon points="90,128 104,116 120,126 114,146 90,154 66,146 60,126 76,116" fill="#111827" />
+</svg>
